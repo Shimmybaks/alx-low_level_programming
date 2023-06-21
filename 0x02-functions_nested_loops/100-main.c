@@ -10,13 +10,13 @@
 int main(void)
 
 {
-	print time_tables(3);
+	print times_tables(3);
 	_putchar('\n');
-	print time_tables(5);
+	print times_tables(5);
 	_putchar('\n');
-	print time_tabbles(98);
+	print times_tabbles(98);
 	_putchar('\n');
-	print time_tables(12);
+	print times_tables(12);
 	return (0);
 }
 
