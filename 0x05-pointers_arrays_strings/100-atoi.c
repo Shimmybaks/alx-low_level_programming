@@ -28,7 +28,7 @@ if (isi == 1)
 {
 break;
 }
-c++
+c++;
 }
 ni *= min;
 return (ni);
